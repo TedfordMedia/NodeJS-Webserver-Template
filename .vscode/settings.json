@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/dd1d3303-932c-4354-af1f-1bad3a609bcf/resourceGroups/TEDNEWRESOURCEGROUP/providers/Microsoft.Web/sites/TedfordMediaServer",
+    "appService.deploySubpath": "."
+}
